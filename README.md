@@ -2,7 +2,43 @@
 coverY: 0
 ---
 
-# The beginning of a new age
+# 🌪 Eye AI - Explained
+
+_Eye Ai's main goal is the integration of artificial intelligence in human activities and business situations, where we notice a great need for highly autonomous systems, which operate without the need for stops and maintain standardization throughout the process._
+
+_Through research we can punctuate some places of IA performance, where it generates great return to the institutions and, consequently, to humanity, such as:_
+
+1. _**Detect and prevent security intrusions**_
+2. _**Solve users' technology problems**_
+3. _**Reduce production management work**_
+4. _**Evaluate internal compliance when using approved suppliers**_
+
+#### _But before we delve deeper, let's bring up two short historical concepts of IA success..._
+
+_AI is the determining factor behind some significant success stories:_
+
+* _the Associated Press produced 12 times more stories by training AI software to automatically write short news stories about earnings. This effort freed its journalists to write more detailed texts._
+* _Deep Patient, an artificial intelligence tool created by the Icahn School of Medicine at Mount Sinai, allows doctors to identify high-risk patients before diseases are even diagnosed. The tool analyzes a patient's medical history to predict nearly 80 diseases up to a year before onset._
+
+## _Eye AI's Current Intentions_
+
+#### _Turnkey AI is making AI easier to operationalize_
+
+_The emergence of solutions and tools with AI technology means that more companies can take advantage of AI at a lower cost and in less time. Out-of-the-box AI refers to solutions, tools, and software that have built-in AI capabilities or automate the algorithmic decision-making process._&#x20;
+
+_Turnkey AI can be anything from standalone databases that automatically retrieve themselves using machine learning, to pre-built models that can be applied to a variety of datasets to solve challenges such as image recognition and text analysis. It can help companies achieve faster time to value, increase productivity, reduce costs, and improve customer relationships._
+
+## _Eye AI's Future Intentions_
+
+#### _From artificial intelligence to adaptive intelligence_
+
+_As AI capabilities reach traditional business operations, a new term is evolving: adaptive intelligence. Adaptive intelligence applications help enterprises make better business decisions by combining the power of real-time internal and external data with highly scalable compute and decision science infrastructure._
+
+_These applications essentially make your business smarter. This enables you to provide your customers with better products, recommendations, and services, all of which bring better business results._
+
+###
+
+###
 
 ### Como as empresas usam a IA
 

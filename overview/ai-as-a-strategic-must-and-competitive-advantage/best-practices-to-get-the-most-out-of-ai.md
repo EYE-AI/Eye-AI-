@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/GITHUB.png
 coverY: 0
 ---
 
-# 👁 Best practices to get the most out of AI
+# 🧿 Best practices to get the most out of AI
 
 * _<mark style="background-color:blue;">**Apply AI capabilities to the activities that have the greatest and most immediate impact on revenue and cost.**</mark>_&#x20;
 * _<mark style="background-color:blue;">**Use AI to increase productivity with the same number of people, rather than eliminating or adding staff.**</mark>_&#x20;

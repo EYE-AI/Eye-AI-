@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/GITHUB.png
 coverY: 0
 ---
 
-# 👁 Making requests
+# 🧿 Making requests
 
 #### _You can paste the command below into your terminal to run your first API request. Make sure to replace `YOUR_API_KEY` with your secret API key._
 

@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/GITHUB.png
 coverY: 0
 ---
 
-# 👁 What is driving AI adoption?
+# 🧿 What is driving AI adoption?
 
 #### Three factors are driving the development of AI in all sectors:
 

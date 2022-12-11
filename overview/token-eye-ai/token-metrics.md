@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/GITHUB.png
+cover: ../../.gitbook/assets/GITHUB.png
 coverY: 0
 ---
 
-# 👁 Token Metrics
+# 🧿 Token Metrics
 
 00% - Presale\
 00% - Liquidity\

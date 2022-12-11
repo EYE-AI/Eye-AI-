@@ -10,6 +10,8 @@
 * [How AI can help organizations](overview/how-ai-can-help-organizations.md)
 * [AI in the company](overview/ai-in-the-company.md)
 * [AI as a strategic must and competitive advantage](overview/ai-as-a-strategic-must-and-competitive-advantage.md)
+* [Turnkey AI is making AI easier to operationalize](overview/turnkey-ai-is-making-ai-easier-to-operationalize.md)
+* [From artificial intelligence to adaptive intelligence](overview/from-artificial-intelligence-to-adaptive-intelligence.md)
 * [Token Eye AI](overview/token-eye-ai.md)
 * [Security AI](overview/security-ai.md)
 * [Roadmap](overview/roadmap.md)

@@ -14,7 +14,7 @@
   * [👁 Best practices to get the most out of AI](overview/ai-as-a-strategic-must-and-competitive-advantage/best-practices-to-get-the-most-out-of-ai.md)
 * [👁 Turnkey AI is making AI easier to operationalize](overview/turnkey-ai-is-making-ai-easier-to-operationalize.md)
 * [👁 From artificial intelligence to adaptive intelligence](overview/from-artificial-intelligence-to-adaptive-intelligence.md)
-* [🪙 Token Eye AI](overview/token-eye-ai/README.md)
+* [🪙 Token Eye AI](overview/token-eye-ai.md)
   * [👁 Taxes](overview/token-eye-ai/taxes.md)
 * [👁 Token Metrics](overview/token-metrics.md)
 * [🕵♀ Security AI](overview/security-ai.md)

@@ -8,9 +8,9 @@ _<mark style="background-color:blue;">**Presale Address:**</mark>_
 
 _<mark style="background-color:blue;">**Token Name:**</mark>** ****Eye AI**_
 
-_<mark style="background-color:blue;">**Token Symbol:**</mark>_&#x20;
+_<mark style="background-color:blue;">**Token Symbol:**</mark>** ****EYE-AI**_
 
-_<mark style="background-color:blue;">**Total Supply:**</mark>_
+_<mark style="background-color:blue;">**Total Supply:**</mark>** ****100.000 EYE-AI**_
 
 _<mark style="background-color:blue;">**Soft Cap:**</mark>_
 

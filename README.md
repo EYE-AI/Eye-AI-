@@ -7,6 +7,20 @@ coverY: 0
 
 _Eye Ai's main goal is the integration of artificial intelligence in human activities and business situations, where we notice a great need for highly autonomous systems, which operate without the need for stops and maintain standardization throughout the process._
 
+#### _AI Bot Free Telegram_
+
+_Eye Ai is a free-to-use telegram bot that provides users access to ChatGTP and DALL-E via chat commands._
+
+#### _AI Development_
+
+_Eye AI we are very supportive of the creation, 1% of the EYE-AI BEP20 token will be donated to AI related institutions that will be selected by the community in voting_
+
+#### _**About Eye AI**_
+
+* _<mark style="background-color:blue;">**Their Goal-**</mark> Ensure that artificial general intelligence benefits all of humanity._
+* _<mark style="background-color:blue;">**Milestones -**</mark>** ****** Famously known for developing advanced text-to-image technology._
+* _<mark style="background-color:blue;">**API**</mark>** **<mark style="color:blue;">**-**</mark>** ****** The EyeAI API is what allowed the creation of our bot, and can be used for much more._
+
 _Through research we can punctuate some places of IA performance, where it generates great return to the institutions and, consequently, to humanity, such as:_
 
 1. _<mark style="background-color:blue;">**Detect and prevent security intrusions**</mark>_

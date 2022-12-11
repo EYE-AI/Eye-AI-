@@ -2,5 +2,5 @@
 coverY: 0
 ---
 
-# Fairlaunch - Pinksale
+# 📊 Fairlaunch - Pinksale
 

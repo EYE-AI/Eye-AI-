@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# 🌪 Eye AI - Explained
+# 🧿 Eye AI - Explained
 
 _Eye Ai's main goal is the integration of artificial intelligence in human activities and business situations, where we notice a great need for highly autonomous systems, which operate without the need for stops and maintain standardization throughout the process._
 

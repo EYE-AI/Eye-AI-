@@ -17,9 +17,15 @@ _Eye AI we are very supportive of the creation, 1% of the EYE-AI BEP20 token wil
 
 #### _**About Eye AI**_
 
-* _<mark style="background-color:blue;">**Their Goal-**</mark> Ensure that artificial general intelligence benefits all of humanity._
-* _<mark style="background-color:blue;">**Milestones -**</mark>** ****** Famously known for developing advanced text-to-image technology._
-* _<mark style="background-color:blue;">**API**</mark>** **<mark style="color:blue;">**-**</mark>** ****** The EyeAI API is what allowed the creation of our bot, and can be used for much more._
+Our mission is to ensure that artificial general intelligence benefits all of humanity.
+
+![Icon](https://eyeai.technology/assets/images/icon/checked.png)Text completion.
+
+![Icon](https://eyeai.technology/assets/images/icon/checked.png)Code completion.
+
+![Icon](https://eyeai.technology/assets/images/icon/checked.png)Image generation.
+
+![Icon](https://eyeai.technology/assets/images/icon/checked.png)Fine-tuning.
 
 _Through research we can punctuate some places of IA performance, where it generates great return to the institutions and, consequently, to humanity, such as:_
 

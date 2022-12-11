@@ -12,4 +12,4 @@ _In simpler terms, AI which stands for artificial intelligence refers to systems
 
 _AI is more related to process and superpowered thinking skills and data analysis than to any particular format or function. Although AI brings images of robots resembling the high-functioning men who rule the world, AI is not intended to replace humans. Its goal is to significantly enhance human abilities and contributions. This makes it a very valuable business asset._
 
-<figure><img src="../.gitbook/assets/a.JPG" alt=""><figcaption><p><em><mark style="background-color:purple;"><strong>Data Source &#x3C;-> Digital Assistant &#x3C;-> Chat Service &#x3C;-> Results</strong></mark></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/a.JPG" alt=""><figcaption><p><em><mark style="background-color:blue;"><strong>Data Source &#x3C;-> Digital Assistant &#x3C;-> Chat Service &#x3C;-> Results</strong></mark></em></p></figcaption></figure>

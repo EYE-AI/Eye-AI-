@@ -20,18 +20,6 @@ _When starting to use artificial intelligence to create an application, it is he
 
  
 
-<figure><img src="../.gitbook/assets/e-removebg-preview.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/d-removebg-preview.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/c-removebg-preview.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/b-removebg-preview (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/b-removebg-preview (1).png" alt=""><figcaption><p><mark style="background-color:blue;"><strong>Anomaly Detection</strong></mark></p></figcaption></figure>
 
 </div>

@@ -10,4 +10,28 @@ _When starting to use artificial intelligence to create an application, it is he
 
 #### _AI and Machine Learning Services_
 
-__
+<div>
+
+<figure><img src="../.gitbook/assets/g-removebg-preview.png" alt=""><figcaption><p><mark style="background-color:blue;"><strong>Data Labeling</strong></mark> </p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/f-removebg-preview.png" alt=""><figcaption><p><mark style="background-color:blue;"><strong>Data Science</strong></mark></p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/e-removebg-preview.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/d-removebg-preview.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/c-removebg-preview.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/b-removebg-preview (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>

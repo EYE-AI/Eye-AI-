@@ -8,12 +8,12 @@ _Eye Ai's main goal is the integration of artificial intelligence in human activ
 
 _Through research we can punctuate some places of IA performance, where it generates great return to the institutions and, consequently, to humanity, such as:_
 
-1. _**Detect and prevent security intrusions**_
-2. _**Solve users' technology problems**_
-3. _**Reduce production management work**_
-4. _**Evaluate internal compliance when using approved suppliers**_
+1. _<mark style="background-color:blue;">**Detect and prevent security intrusions**</mark>_
+2. _<mark style="background-color:blue;">**Solve users' technology problems**</mark>_
+3. _<mark style="background-color:blue;">**Reduce production management work**</mark>_
+4. _<mark style="background-color:blue;">**Evaluate internal compliance when using approved suppliers**</mark>_
 
-#### _But before we delve deeper, let's bring up two short historical concepts of IA success..._
+#### _<mark style="background-color:blue;">But before we delve deeper, let's bring up two short historical concepts of IA success...</mark>_
 
 _AI is the determining factor behind some significant success stories:_
 
@@ -22,7 +22,7 @@ _AI is the determining factor behind some significant success stories:_
 
 ## _Eye AI's Current Intentions_
 
-#### _Turnkey AI is making AI easier to operationalize_
+#### _<mark style="background-color:blue;">Turnkey AI is making AI easier to operationalize</mark>_
 
 _The emergence of solutions and tools with AI technology means that more companies can take advantage of AI at a lower cost and in less time. Out-of-the-box AI refers to solutions, tools, and software that have built-in AI capabilities or automate the algorithmic decision-making process._&#x20;
 
@@ -30,7 +30,7 @@ _Turnkey AI can be anything from standalone databases that automatically retriev
 
 ## _Eye AI's Future Intentions_
 
-#### _From artificial intelligence to adaptive intelligence_
+#### _<mark style="background-color:blue;">From artificial intelligence to adaptive intelligence</mark>_
 
 _As AI capabilities reach traditional business operations, a new term is evolving: adaptive intelligence. Adaptive intelligence applications help enterprises make better business decisions by combining the power of real-time internal and external data with highly scalable compute and decision science infrastructure._
 

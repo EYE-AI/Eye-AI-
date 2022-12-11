@@ -10,3 +10,8 @@
 * [How AI can help organizations](overview/how-ai-can-help-organizations.md)
 * [AI in the company](overview/ai-in-the-company.md)
 * [AI as a strategic must and competitive advantage](overview/ai-as-a-strategic-must-and-competitive-advantage.md)
+* [Token Eye AI](overview/token-eye-ai.md)
+* [Security AI](overview/security-ai.md)
+* [Roadmap](overview/roadmap.md)
+* [Social Media](overview/social-media.md)
+* [Fairlaunch - Pinksale](overview/fairlaunch-pinksale.md)

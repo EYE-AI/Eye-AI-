@@ -19,6 +19,8 @@ _<mark style="background-color:blue;">**Presale Start Time:**</mark>_
 
 _<mark style="background-color:blue;">**Presale End Time:**</mark>_
 
+{% embed url="https://bscscan.com/token/0x5ea770bc0a0486e838208Eb09f83788632c41210" %}
+
 
 
 \

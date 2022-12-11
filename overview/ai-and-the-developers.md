@@ -2,8 +2,12 @@
 coverY: 0
 ---
 
-# AI and the developers
+# 🧿 AI and the developers
 
-Developers use artificial intelligence to perform tasks more efficiently that are otherwise done manually, connect with customers, identify patterns, and solve problems. To get started using AI, developers should have a background in mathematics and be comfortable with algorithms.
+_Developers use artificial intelligence to perform tasks more efficiently that are otherwise done manually, connect with customers, identify patterns, and solve problems. To get started using AI, developers should have a background in mathematics and be comfortable with algorithms._
 
-When starting to use artificial intelligence to create an application, it is helpful to start small. By building a relatively simple project, such as tic-tac-toe, for example, you will learn the basics of artificial intelligence. Learning by doing is a great way to improve any skill, and artificial intelligence is no different. Once you have successfully completed one or more small-scale projects, there are no limits to where artificial intelligence can take you.
+_When starting to use artificial intelligence to create an application, it is helpful to start small. By building a relatively simple project, such as tic-tac-toe, for example, you will learn the basics of artificial intelligence. Learning by doing is a great way to improve any skill, and artificial intelligence is no different. Once you have successfully completed one or more small-scale projects, there are no limits to where artificial intelligence can take you._
+
+#### _AI and Machine Learning Services_
+
+__

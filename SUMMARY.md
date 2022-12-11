@@ -5,6 +5,10 @@
 ## Overview
 
 * [👁 The beginning of a new age](overview/eye-ai-explained.md)
+* [👁 Introduction of the Eye- AI API](overview/introduction-of-the-eye-ai-api/README.md)
+  * [👁 Making requests](overview/introduction-of-the-eye-ai-api/making-requests.md)
+  * [👁 Models](overview/introduction-of-the-eye-ai-api/models/README.md)
+    * [▪ List models](overview/introduction-of-the-eye-ai-api/models/list-models.md)
 * [👁 Terms of Artificial Intelligence](overview/terms-of-artificial-intelligence.md)
 * [👁 AI and the developers](overview/ai-and-the-developers.md)
 * [👁 How AI can help organizations](overview/how-ai-can-help-organizations.md)

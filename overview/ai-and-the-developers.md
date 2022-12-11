@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# 🧿 AI and the developers
+# 👁 AI and the developers
 
 _Developers use artificial intelligence to perform tasks more efficiently that are otherwise done manually, connect with customers, identify patterns, and solve problems. To get started using AI, developers should have a background in mathematics and be comfortable with algorithms._
 
@@ -12,26 +12,14 @@ _When starting to use artificial intelligence to create an application, it is he
 
 <div>
 
-<figure><img src="../.gitbook/assets/g-removebg-preview.png" alt=""><figcaption><p><mark style="background-color:blue;"><strong>Data Labeling</strong></mark> </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/b.JPG" alt=""><figcaption><p><mark style="background-color:blue;"><strong>Anomaly Detection</strong></mark></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/f-removebg-preview.png" alt=""><figcaption><p><mark style="background-color:blue;"><strong>Data Science</strong></mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/g.JPG" alt=""><figcaption><p><mark style="background-color:blue;"><strong>Data Labeling</strong></mark> </p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/e-removebg-preview.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/d-removebg-preview.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/c-removebg-preview.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/b-removebg-preview (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/f.JPG" alt=""><figcaption><p><mark style="background-color:blue;"><strong>Data Science</strong></mark></p></figcaption></figure>
 
 </div>

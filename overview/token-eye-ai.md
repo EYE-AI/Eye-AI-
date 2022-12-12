@@ -11,7 +11,7 @@ _<mark style="background-color:blue;">**Token Name:**</mark>** ****Eye AI**_
 
 _<mark style="background-color:blue;">**Token Symbol:**</mark>** ****EYE-AI**_
 
-_<mark style="background-color:blue;">**Total Supply: 5**</mark>**00.000 EYE-AI**_
+_<mark style="background-color:blue;">**Total Supply:**</mark>** ****500.000 EYE-AI**_
 
 _<mark style="background-color:blue;">**Soft Cap:**</mark>_
 

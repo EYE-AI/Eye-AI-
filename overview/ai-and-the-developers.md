@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/GITHUB.png
 coverY: 0
 ---
 
-# 👁 AI and the developers
+# 🧿 AI and the developers
 
 _Developers use artificial intelligence to perform tasks more efficiently that are otherwise done manually, connect with customers, identify patterns, and solve problems. To get started using AI, developers should have a background in mathematics and be comfortable with algorithms._
 

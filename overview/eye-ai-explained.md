@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/GITHUB.png
 coverY: 0
 ---
 
-# 👁 The beginning of a new age
+# 🧿 The beginning of a new age
 
 _In simpler terms, AI which stands for artificial intelligence refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect. AI manifests itself in a variety of ways. Some examples are:_
 

@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/GITHUB.png
 coverY: 0
 ---
 
-# ▪ Embeddings
+# 🧿 Embeddings
 
 _Get a vector representation of a given input that can be easily consumed by machine learning models and algorithms._
 

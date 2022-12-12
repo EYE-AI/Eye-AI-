@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/GITHUB.png
 coverY: 0
 ---
 
-# 👁 AI as a strategic must and competitive advantage
+# 🧿 AI as a strategic must and competitive advantage
 
 _AI is a strategic must-have for any company that wants to achieve greater efficiency, new revenue opportunities, and increase customer loyalty. It is quickly becoming a competitive advantage for many organizations. With AI, companies can accomplish more in less time, create personalized and compelling customer experiences, and predict business outcomes to generate greater profitability._
 

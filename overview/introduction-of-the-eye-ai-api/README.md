@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/GITHUB.png
 coverY: 0
 ---
 
-# 👁 Introduction of the Eye- AI API
+# 🧿 Introduction of the Eye- AI API
 
 #### _Authentication_
 

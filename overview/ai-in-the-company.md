@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/GITHUB.png
 coverY: 0
 ---
 
-# 👁 AI in the company
+# 🧿 AI in the company
 
 _AI technology is improving the performance and productivity of businesses by automating processes or tasks that previously required human power. AI can also make sense of data at a scale that no human ever could. This ability can return substantial business benefits. For example, <mark style="background-color:blue;">**Netflix uses machine learning to provide a level of personalization**</mark> that helped the company increase its customer base by more than 25% in 2017._
 

@@ -19,13 +19,27 @@ _Eye AI we are very supportive of the creation, 1% of the EYE-AI BEP20 token wil
 
 Our mission is to ensure that artificial general intelligence benefits all of humanity.
 
-![Icon](https://eyeai.technology/assets/images/icon/checked.png)Text completion.
+* _<mark style="background-color:blue;">**Text completion.**</mark>_
+* _<mark style="background-color:blue;">**Code completion.**</mark>_
+* _<mark style="background-color:blue;">**Image generation.**</mark>_
+* _<mark style="background-color:blue;">**Fine-tuning**</mark>_
 
-![Icon](https://eyeai.technology/assets/images/icon/checked.png)Code completion.
+#### _Metaverse integration with EYE-AI_
 
-![Icon](https://eyeai.technology/assets/images/icon/checked.png)Image generation.
+_The metaverse is here to stay, it is just being born and there is a lot to be done for the best use of all, either by the companies that are involved in the projects, or by the brands that are promoting and selling products and services in this new digital media channel, or with users learning, playing, having fun, and even working in this new environment. And artificial intelligence is a fundamental pillar to support all of this, along with digital security and other technologies._
 
-![Icon](https://eyeai.technology/assets/images/icon/checked.png)Fine-tuning.
+_Some of the concepts applied in EYE-AI are:_
+
+* _<mark style="background-color:blue;">**Moderating and identifying harmful behavior;**</mark>_
+* _<mark style="background-color:blue;">**Facilitating simultaneous translations;**</mark>_
+* _<mark style="background-color:blue;">**Allowing you to make your own avatar;**</mark>_
+
+#### _Cryptocurrency trading robots_
+
+_Investment robots are digital platforms that provide automated, algorithm-driven financial services with almost no human supervision. They are widely used in day trading to increase the efficiency of trading in the stock market._\
+_Through protocols and algorithms, we will bring our investors a cryptocurrency trading robot, where through data, it will design everyone the best conditions statistically._
+
+#### _EYE-AI integration with institutions_
 
 _Through research we can punctuate some places of IA performance, where it generates great return to the institutions and, consequently, to humanity, such as:_
 

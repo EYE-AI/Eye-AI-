@@ -23,7 +23,7 @@ _This is precisely why Meta recently unveiled the AI Research SuperCluster (RSC)
 
 _Artificial intelligence will also be used to scan and process in real time the enormous amount of data produced every second by the users' activities in the <mark style="background-color:blue;">**EYE-AI**</mark> metaverse to enable other situations_
 
-#### _Enabling you to make your own avatar_
+#### _<mark style="background-color:blue;">Enabling you to make your own avatar</mark>_
 
 _Although in the metaverse potentially no one knows who you are, there will be situations - such as business meetings hosted in the metaverse - where disguising yourself behind a nickname and a Salvador Dali mask may not be commonly accepted behavior. In these environments it will be necessary, and useful, to be present not only with one's real name, but also with an avatar that looks as much like us as possible. <mark style="background-color:blue;">**EYE-AI**</mark> can help here too, with models that analyze our photos and recreate a 3D avatar in our image and likeness._
 
@@ -31,7 +31,7 @@ _Although in the metaverse potentially no one knows who you are, there will be s
 
 _Real-time translation is one of the use cases that will dedicate part of your supercomputer specifically for this activity. The idea here is to enable groups of people from different countries, each speaking a different language, to speak and understand each other in real time. To do this, the artificial intelligence model will first need to recognize the language spoken by one user, interpret each word and recognize the meaning, translate it correctly into the language spoken by the other interlocutor, and generate the translated text in audio format, perhaps with the same voice as the first interlocutor (an audio deepfake would need to be used to simulate the voice)._
 
-#### _Moderating and identifying harmful behavior_
+#### _<mark style="background-color:blue;">Moderating and identifying harmful behavior</mark>_
 
 _As already reported in some news stories, the metaverse is not free from typically human problems, such as harassment or bullying. These are challenges that all platforms need to address, because they don't want their great project to be ruined by the harasser next door._
 

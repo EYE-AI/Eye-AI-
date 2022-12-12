@@ -39,6 +39,10 @@ _Some of the concepts applied in EYE-AI are:_
 _Investment robots are digital platforms that provide automated, algorithm-driven financial services with almost no human supervision. They are widely used in day trading to increase the efficiency of trading in the stock market._\
 _Through protocols and algorithms, we will bring our investors a cryptocurrency trading robot, where through data, it will design everyone the best conditions statistically._
 
+#### _Trend Tracking_
+
+_We at Eye-AI, by means of artificial intelligence, are developing a boot, which will indicate the best options for entries, where they can be put in Telegram groups to indicate trending projects, with it a brief description of the whole project under analysis._
+
 #### _EYE-AI integration with institutions_
 
 _Through research we can punctuate some places of IA performance, where it generates great return to the institutions and, consequently, to humanity, such as:_

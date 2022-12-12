@@ -45,14 +45,14 @@ _We at Eye-AI, by means of artificial intelligence, are developing a boot, which
 
 #### _EYE-AI integration with institutions_
 
-_Through research we can punctuate some places of IA performance, where it generates great return to the institutions and, consequently, to humanity, such as:_
+_Through research we can punctuate some places of AI performance, where it generates great return to the institutions and, consequently, to humanity, such as:_
 
 1. _<mark style="background-color:blue;">**Detect and prevent security intrusions**</mark>_
 2. _<mark style="background-color:blue;">**Solve users' technology problems**</mark>_
 3. _<mark style="background-color:blue;">**Reduce production management work**</mark>_
 4. _<mark style="background-color:blue;">**Evaluate internal compliance when using approved suppliers**</mark>_
 
-#### _<mark style="background-color:blue;">But before we delve deeper, let's bring up two short historical concepts of IA success...</mark>_
+#### _<mark style="background-color:blue;">But before we delve deeper, let's bring up two short historical concepts of AI success...</mark>_
 
 _AI is the determining factor behind some significant success stories:_
 

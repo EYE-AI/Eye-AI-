@@ -44,4 +44,4 @@
 * [🕵♀ Security AI](overview/security-ai.md)
 * [🛤 Roadmap](overview/roadmap.md)
 * [🫂 Social Media](overview/social-media.md)
-* [📊 Fairlaunch - Pinksale](overview/fairlaunch-pinksale.md)
+* [📊 Fairlaunch ETH - Pinksale](overview/fairlaunch-eth-pinksale.md)

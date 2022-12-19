@@ -10,6 +10,7 @@
 * [🧿 Metaverse Eye-AI](overview/metaverse-eye-ai/README.md)
   * [🧿 AI powering the Metaverse](overview/metaverse-eye-ai/ai-powering-the-metaverse.md)
 * [🧿 Trend Tracking](overview/trend-tracking.md)
+* [🧿 Point to ETH network](overview/point-to-eth-network.md)
 * [🧿 Introduction of the Eye- AI API](overview/introduction-of-the-eye-ai-api/README.md)
   * [🧿 Making requests](overview/introduction-of-the-eye-ai-api/making-requests.md)
   * [🧿 Models](overview/introduction-of-the-eye-ai-api/models/README.md)

@@ -5,6 +5,8 @@ coverY: 0
 
 # 🧿 Eye AI - Explained
 
+{% embed url="https://youtu.be/lzHNseb8IvM" %}
+
 _Eye Ai's main goal is the integration of artificial intelligence in human activities and business situations, where we notice a great need for highly autonomous systems, which operate without the need for stops and maintain standardization throughout the process._
 
 #### _AI Bot Free Telegram_
